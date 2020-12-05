@@ -73,7 +73,6 @@ for passport in inputRead:
                         fieldsIn.append(var)
     
     if(len(fieldsIn) == 7):
-        #print(passport)
         count+=1
 
 print(count)
